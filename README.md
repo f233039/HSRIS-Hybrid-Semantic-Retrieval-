@@ -40,11 +40,8 @@ Architecture
 Statistical Layer: TF-IDF with n-grams (1-2)
 Semantic Layer: GloVe embeddings (300d)
 Hybrid Score: FinalScore = α(TF-IDF) + (1-α)(GloVe)
-Demo
-[Link to Gradio Space]
+Demo GRADIO LINKhttps://huggingface.co/spaces/ALVI512/hsris-hybrid-search/tree/main
 Author
 Name: AAMISH ALVI
 Roll Number: 23F-3039
-
-Batch: [Your Batch]
-
+Batch: 23
